@@ -8,6 +8,9 @@ We just want to take this project ahead and updating it with most commonly avial
 
 The first step is to port the schematic to KiCad to make the process of devlopment easier as an opensource project.
 
+<img src="hardware/loco_test_render.png" />
+
+
 <!-- Copy-paste in your Readme.md file -->
 ## Contributors
 
