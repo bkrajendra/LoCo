@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name Radio_RPIv15_868)(type KiCad)(uri "$(KIPRJMOD)/Radio_RPIv15_868.pretty")(options "")(descr ""))
+)
